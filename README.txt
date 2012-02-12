@@ -16,3 +16,7 @@ Steps:
 $ node server.js
 
 And voila!
+Visit http:// -your ip here, or "localhost"- :8080
+
+Example:
+http://192.168.0.1:8080
